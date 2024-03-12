@@ -1,7 +1,7 @@
-import "./App.css";
+import Body from "./components/Body";
 
 function App() {
-  return <div className="font-semobold text-2xl px-4 mt-8">Namaste React</div>;
+  return <Body />;
 }
 
 export default App;
