@@ -30,6 +30,12 @@
   -Update store with trailer video data
   -Embeded the youtube video and make autoplay and mute
 
+-Build secondary component
+-Biuld Movie List
+-Build Movie Card
+-TMDB Image CDN URL
+-Build usePopular custome hook
+
 # Features
 
 -Login/Sign Up
